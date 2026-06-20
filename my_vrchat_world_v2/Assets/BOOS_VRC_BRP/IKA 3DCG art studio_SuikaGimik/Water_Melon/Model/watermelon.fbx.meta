@@ -1,0 +1,285 @@
+fileFormatVersion: 2
+guid: ee9f206c740152b438d6923d58c9df51
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: broken Crescent Moon Watermelon
+    100002: broken Half watermelon.
+    100004: broken watermelon_001
+    100006: broken watermelon_002
+    100008: broken watermelon_003
+    100010: broken watermelon_004
+    100012: broken watermelon_005
+    100014: Crescent Moon Watermelon
+    100016: Cut up watermelon_001
+    100018: Cut up watermelon_002
+    100020: Cut up watermelon_003
+    100022: Cut up watermelon_004
+    100024: Cut up watermelon_005
+    100026: Half watermelon
+    100028: large sliced watermelon
+    100030: Scattered watermelons001
+    100032: Scattered watermelons002
+    100034: Scattered watermelons_001
+    100036: Scattered watermelons_002
+    100038: stick
+    100040: //RootNode
+    100042: watermelon
+    100044: watermelon in a row
+    100046: "\u5186"
+    100048: "\u5E73\u9762.000"
+    100050: "\u5E73\u9762.002"
+    100052: "\u5E73\u9762.003"
+    100054: "\u5E73\u9762.005"
+    100056: "\u5E73\u9762.006"
+    100058: "\u5E73\u9762.007"
+    100060: "\u5E73\u9762.013"
+    100062: "\u5E73\u9762.014"
+    100064: "\u5E73\u9762.015"
+    100066: "\u5E73\u9762.016"
+    100068: "\u5E73\u9762.017"
+    100070: "\u7403.005"
+    100072: "\u7403.006"
+    100074: "\u7403.007"
+    400000: broken Crescent Moon Watermelon
+    400002: broken Half watermelon.
+    400004: broken watermelon_001
+    400006: broken watermelon_002
+    400008: broken watermelon_003
+    400010: broken watermelon_004
+    400012: broken watermelon_005
+    400014: Crescent Moon Watermelon
+    400016: Cut up watermelon_001
+    400018: Cut up watermelon_002
+    400020: Cut up watermelon_003
+    400022: Cut up watermelon_004
+    400024: Cut up watermelon_005
+    400026: Half watermelon
+    400028: large sliced watermelon
+    400030: Scattered watermelons001
+    400032: Scattered watermelons002
+    400034: Scattered watermelons_001
+    400036: Scattered watermelons_002
+    400038: stick
+    400040: watermelon
+    400042: //RootNode
+    400044: watermelon in a row
+    400046: "\u5186"
+    400048: "\u5E73\u9762.000"
+    400050: "\u5E73\u9762.002"
+    400052: "\u5E73\u9762.003"
+    400054: "\u5E73\u9762.005"
+    400056: "\u5E73\u9762.006"
+    400058: "\u5E73\u9762.007"
+    400060: "\u5E73\u9762.013"
+    400062: "\u5E73\u9762.014"
+    400064: "\u5E73\u9762.015"
+    400066: "\u5E73\u9762.016"
+    400068: "\u5E73\u9762.017"
+    400070: "\u7403.005"
+    400072: "\u7403.006"
+    400074: "\u7403.007"
+    2100000: Material
+    2300000: broken Crescent Moon Watermelon
+    2300002: broken Half watermelon.
+    2300004: broken watermelon_001
+    2300006: broken watermelon_002
+    2300008: broken watermelon_003
+    2300010: broken watermelon_004
+    2300012: broken watermelon_005
+    2300014: Crescent Moon Watermelon
+    2300016: Cut up watermelon_001
+    2300018: Cut up watermelon_002
+    2300020: Cut up watermelon_003
+    2300022: Cut up watermelon_004
+    2300024: Cut up watermelon_005
+    2300026: Half watermelon
+    2300028: large sliced watermelon
+    2300030: Scattered watermelons001
+    2300032: Scattered watermelons002
+    2300034: Scattered watermelons_001
+    2300036: Scattered watermelons_002
+    2300038: stick
+    2300040: watermelon
+    2300042: watermelon in a row
+    2300044: "\u5186"
+    2300046: "\u5E73\u9762.000"
+    2300048: "\u5E73\u9762.002"
+    2300050: "\u5E73\u9762.003"
+    2300052: "\u5E73\u9762.005"
+    2300054: "\u5E73\u9762.006"
+    2300056: "\u5E73\u9762.007"
+    2300058: "\u5E73\u9762.013"
+    2300060: "\u5E73\u9762.014"
+    2300062: "\u5E73\u9762.015"
+    2300064: "\u5E73\u9762.016"
+    2300066: "\u5E73\u9762.017"
+    2300068: "\u7403.005"
+    2300070: "\u7403.006"
+    2300072: "\u7403.007"
+    3300000: broken Crescent Moon Watermelon
+    3300002: broken Half watermelon.
+    3300004: broken watermelon_001
+    3300006: broken watermelon_002
+    3300008: broken watermelon_003
+    3300010: broken watermelon_004
+    3300012: broken watermelon_005
+    3300014: Crescent Moon Watermelon
+    3300016: Cut up watermelon_001
+    3300018: Cut up watermelon_002
+    3300020: Cut up watermelon_003
+    3300022: Cut up watermelon_004
+    3300024: Cut up watermelon_005
+    3300026: Half watermelon
+    3300028: large sliced watermelon
+    3300030: Scattered watermelons001
+    3300032: Scattered watermelons002
+    3300034: Scattered watermelons_001
+    3300036: Scattered watermelons_002
+    3300038: stick
+    3300040: watermelon
+    3300042: watermelon in a row
+    3300044: "\u5186"
+    3300046: "\u5E73\u9762.000"
+    3300048: "\u5E73\u9762.002"
+    3300050: "\u5E73\u9762.003"
+    3300052: "\u5E73\u9762.005"
+    3300054: "\u5E73\u9762.006"
+    3300056: "\u5E73\u9762.007"
+    3300058: "\u5E73\u9762.013"
+    3300060: "\u5E73\u9762.014"
+    3300062: "\u5E73\u9762.015"
+    3300064: "\u5E73\u9762.016"
+    3300066: "\u5E73\u9762.017"
+    3300068: "\u7403.005"
+    3300070: "\u7403.006"
+    3300072: "\u7403.007"
+    4300000: watermelon in a row
+    4300002: Cut up watermelon_001
+    4300004: Cut up watermelon_004
+    4300006: Cut up watermelon_002
+    4300008: Cut up watermelon_003
+    4300010: Cut up watermelon_005
+    4300012: large sliced watermelon
+    4300014: watermelon
+    4300016: Half watermelon
+    4300018: Crescent Moon Watermelon
+    4300020: broken watermelon_001
+    4300022: broken watermelon_004
+    4300024: broken watermelon_002
+    4300026: broken watermelon_003
+    4300028: broken watermelon_005
+    4300030: broken Half watermelon.
+    4300032: broken Crescent Moon Watermelon
+    4300034: "\u5E73\u9762.013"
+    4300036: "\u5E73\u9762.014"
+    4300038: "\u5E73\u9762.015"
+    4300040: "\u5E73\u9762.016"
+    4300042: "\u5E73\u9762.017"
+    4300044: "\u7403.005"
+    4300046: "\u7403.006"
+    4300048: "\u7403.007"
+    4300050: stick
+    4300052: "\u5186"
+    4300054: "\u5E73\u9762.002"
+    4300056: "\u5E73\u9762.000"
+    4300058: Scattered watermelons001
+    4300060: "\u5E73\u9762.003"
+    4300062: Scattered watermelons002
+    4300064: "\u5E73\u9762.005"
+    4300066: "\u5E73\u9762.006"
+    4300068: "\u5E73\u9762.007"
+    4300070: Scattered watermelons_002
+    4300072: Scattered watermelons_001
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: 0bcd03a0d37fdf841ae26837d095c8cf, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

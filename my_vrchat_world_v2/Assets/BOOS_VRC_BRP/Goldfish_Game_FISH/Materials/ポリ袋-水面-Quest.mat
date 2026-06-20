@@ -1,0 +1,141 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: "\u30DD\u30EA\u888B-\u6C34\u9762-Quest"
+  m_Shader: {fileID: 4800000, guid: 870b6009326650e4e9b7120b9135c63a, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords:
+  - _USE_DISTORTION_ON
+  - _USE_UNDERWATER_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Cube:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Cubemap:
+        m_Texture: {fileID: 8900000, guid: 6d6530797b06bff42b844588c0424b55, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailAlbedoMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Matcap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SurfaceMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _BumpScale: 1
+    - _ChromaticAberration: 0.0509
+    - _Cull: 2
+    - _Cutoff: 0.5
+    - _DecalAlpha: 1
+    - _DetailNormalMapScale: 1
+    - _Distortion: 0
+    - _DstBlend: 0
+    - _Exposure: 1.576
+    - _FresnelBias: 0.1
+    - _FresnelPower: 1.51
+    - _GlassThickness: 5.14
+    - _Gloss: 1
+    - _GlossMapScale: 1
+    - _Glossiness: 0.100000024
+    - _GlossyReflections: 1
+    - _Matcap_Scale: 1.58
+    - _Matcap_Strength: 0.562
+    - _Metallic: 0
+    - _Mode: 0
+    - _NormalIntensity: 0.548
+    - _OcclusionStrength: 1
+    - _Parallax: 0.02
+    - _ReflectPower: 1.5
+    - _ReflectionIntensity: 5
+    - _SmoothnessTextureChannel: 0
+    - _Specular: 1
+    - _SpecularHighlights: 1
+    - _SrcBlend: 1
+    - _SurfaceMapIntensity: 0.5
+    - _TextureOpacity: 0
+    - _UVSec: 0
+    - _UseDecal: 0
+    - _UseMatcap: 0
+    - _UseNormal: 0
+    - _Use_Distortion: 1
+    - _Use_Underwater: 1
+    - _Water_Wobble_Scale: 2.4
+    - _Water_Wobble_Speed: 0.33
+    - _Water_Wobble_Strength: 0.125
+    - _ZWrite: 1
+    m_Colors:
+    - _Albedo_Base_Color: {r: 0, g: 0, b: 0, a: 0}
+    - _Color: {r: 0, g: 1, b: 0.9905874, a: 0.043137256}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 0}
+    - _Emission_Base_Color: {r: 0, g: 0, b: 0, a: 1}
+    - _Glass_Color: {r: 0.8679245, g: 0.8679245, b: 0.8679245, a: 1}
+    - _Incident_Color: {r: 1, g: 1, b: 1, a: 1}
+    - _ReflectColor: {r: 1, g: 1, b: 1, a: 1}
+    - _Reflection_Color: {r: 0.5707547, g: 0.935475, b: 1, a: 1}
+    - _Water_Color: {r: 0.9858491, g: 1, b: 1, a: 1}
+  m_BuildTextureStacks: []

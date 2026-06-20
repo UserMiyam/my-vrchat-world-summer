@@ -1,0 +1,6 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="True">
+    <Style src="project://database/Assets/yoshio_will/Common/Editor/PatchExporter.uss?fileID=7433441132597879392&amp;guid=6bbab74a046b39848bd67af331abd616&amp;type=3#PatchExporter" />
+    <uie:ObjectField label="Target Folder" allow-scene-objects="false" type="UnityEngine.Object, UnityEngine.CoreModule" name="TargetFolder" />
+    <ui:TextField picking-mode="Ignore" label="Since DateTime" name="SinceDateTime" />
+    <ui:Button text="Select Files" parse-escape-sequences="true" display-tooltip-when-elided="true" name="SelectFilesButton" />
+</ui:UXML>
